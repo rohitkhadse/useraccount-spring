@@ -1,3 +1,4 @@
 I am on user branch.
 after git push --set-upstream-bash
 I am user 2
+my name is user2
