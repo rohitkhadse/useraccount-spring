@@ -1,5 +1,7 @@
 I am on user branch.
+<<<<<<< HEAD
 after git push --set-upstream-bash
 I am user 2
 my name is user2
 my name is user
+user address
